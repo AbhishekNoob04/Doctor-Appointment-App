@@ -1,1 +1,1 @@
-Full Stack Project - MERN STACK
+FULL STACK PROJECT - MERN STACK
